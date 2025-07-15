@@ -90,7 +90,7 @@ img {
 /* === Card Borders by Type === */
 .supervisor {
   border-top: 4px solid teal;
-   margin-left: 42px;
+  margin-left: 62px;
 }
 
 .team-builder {
@@ -103,7 +103,6 @@ img {
 
 .calculator {
   border-top: 4px solid #2196f3;
-  margin-left: 19px;
 }
 
 /* === Footer === */
